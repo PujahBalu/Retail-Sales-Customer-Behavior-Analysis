@@ -51,10 +51,6 @@ images/        Dashboard screenshots
 Kaggle Retail Dataset:
 https://www.kaggle.com/datasets/utkalk/large-retail-data-set-for-eda
 
-## Dashboard
+## 📄 License
 
-Add Power BI dashboard link or screenshots here.
-
-## Author
-
-Pujah Balasubramaniam
+MIT License
